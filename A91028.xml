@@ -1,0 +1,520 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The principles of the Christian-religion in English-and-Latine compos'd for the use of young be-gin-ners Elementa religionis Christianæ Anglo-Latina in usum Tyraneulorum con-cinnata.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91028</idno>
+            <idno type="STC">Wing P3497A</idno>
+            <idno type="STC">ESTC R229740</idno>
+            <idno type="EEBO-CITATION">99895511</idno>
+            <idno type="PROQUEST">99895511</idno>
+            <idno type="VID">152963</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91028)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152963)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2337:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The principles of the Christian-religion in English-and-Latine compos'd for the use of young be-gin-ners Elementa religionis Christianæ Anglo-Latina in usum Tyraneulorum con-cinnata.</title>
+               </titleStmt>
+               <extent>15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed, for Thomas Parkhurst, at the Bible and three Crowns near Mercers-Chappel, at the lower end of Cheapside,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1670?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In English and Latin.</note>
+                  <note>Date of publication from Wing CD-ROM, 1996.</note>
+                  <note>Reproduction of original in the Lambeth Palace Library, London, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Devotional literature --  Early works to 1800.</term>
+               <term>Family --  Religious life --  Early works to 1800.</term>
+               <term>Religious education of children --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152963:1" rendition="simple:additions"/>
+            <p>THE PRINCIPLES OF THE Chriſtian-Religion IN Engliſh-and-Latine Compos'd for the uſe of young-Be╌gin╌ners.</p>
+            <p>ELEMENTA <hi>Religionis CHRISTIANAE</hi> Anglo-Latina <hi>In uſum Tyr<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ulorum con╌cinnata.</hi>
+            </p>
+            <p>
+               <hi>LONDON.</hi> Printed, for <hi>Thomas Parkhurſt,</hi> at the Bible and three Crowns near <hi>Mercers-Chappel,</hi> at the lower end of <hi>Cheapſide.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2-3" facs="tcp:152963:2" rendition="simple:additions"/>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">The CREED, <hi>or</hi> CONFESSION, <hi>Rom. 10.10.</hi> of <hi>Faith,</hi> con╌ſiſt╌ing of twelve Ar╌ticles</cell>
+                     <cell role="label">SYMBOLUM, ſeu CONFESSIO <hi>Mat.</hi> 10.32. Fidei, duodeçim conſtans Articulis.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>The firſt Artic.</hi> I. I be╌lieve in God, <hi>Hab.</hi> 2.4. 1 <hi>Pet.</hi> 3.21. <hi>Heb.</hi> 11.6. <hi>Deut.</hi> 4.39. <hi>Eph.</hi> 4.5, 6. the fâ╌ther, 1 <hi>Joh.</hi> 5.7. <hi>Matt.</hi> 28.19. Almighty, <hi>Job.</hi> 6.4. 2 <hi>Cor.</hi> 6.18. ma╌ker of hea╌ven, and earth, <hi>Gen.</hi> 1.1. <hi>Heb.</hi> 11.3. <hi>Prov.</hi> 16.4.</cell>
+                     <cell>Artículus-primus. I. <hi>Credo in-Deum patrem, omnipoténtem, creatórem coeli, &amp; Terrae.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Second,</hi> 2. And in Je╌sus, <hi>Mat.</hi> 1.21.25. -Chriſt, <hi>Joh.</hi> 3 34. <hi>Pſa.</hi> 45.7. <hi>Joh.</hi> 6.27. <hi>Mat.</hi> 28.18, 19, 20. his on<g ref="char:EOLhyphen"/>ly ſon, <hi>Joh.</hi> 1.34. <hi>Mat.</hi> 16.16. <hi>Act.</hi> 8.37. <hi>Joh.</hi> 11.27. <hi>Mat.</hi> 3.17. <hi>&amp;</hi> 17.5. <hi>Pſa.</hi> 2.7. <hi>Heb.</hi> 1.5. <hi>Prov.</hi> 8.22. <hi>&amp;c. Joh.</hi> 1.14, 18. <hi>&amp;</hi> 3.16, 18. 1 <hi>Joh.</hi> 4.9. <hi>Rom.</hi> 8.32. <hi>our</hi> Lord, <hi>Mal.</hi> 3.1.</cell>
+                     <cell>Secúndus. II. <hi>Et in╌Jeſum-Chriſtum filium-ejus-únicum dóminum-noſtrum,</hi> Rev. 11.15.-19.16. Rom. 14.9. Phil. 2.11. Mat. 8.25.-22.43, 45.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Third.</hi> 3. Which wâs con╌çeiv╌ed by the ho╌ly ghôſt, Born of the Vir╌gin Ma╌ry, <hi>Luk.</hi> 1.27, 31, 35, 42.</cell>
+                     <cell>Tértius. III. <hi>Qui con╌çép╌tus eſt è-ſpì╌ritu-ſancto, Natus ex-Marìâ-Virgine.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Fourth.</hi> Suf╌fer╌ed under Pon╌ti╌us Pi╌lat, <hi>Mat.</hi> 27.26, &amp;c. was cru╌çi╌fi╌ed, <hi>Phil.</hi> 2.8; dead 1 <hi>Cor.</hi> 15.3. <hi>Mat.</hi> 27.50. &amp; bu╌ri╌ed, 1 <hi>Cor.</hi> 15.4. <hi>Mat.</hi> 27.59, 60</cell>
+                     <cell>Quartus. IV. <hi>Paſſus ſub Póntio Piláto, cruçifixus, mórtuus, &amp; ſepúltus.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Fifth.</hi> 5. He de╌ſçend╌ed in╌to hell, <hi>Pſa.</hi> 16.10 <hi>Act.</hi> 2.24. &amp; 31 <hi>that is, con╌ti╌nu╌ed in the state of the dead and under the pow╌er of death, till the third day.</hi> The third <hi>day</hi> He a╌roſe a╌gain from the dead, 1 <hi>Cor.</hi> 15.4.</cell>
+                     <cell>Quintus. V. <hi>Deſçéndit ad-ìnferos,</hi> Mat. 12.40. id eſt, permánſit in-ſtatu mortuórum, &amp; ſub poteſtate mortis, uſque-ad-diem-tertium. <hi>Tertio-die reſurréxit ex-mórtuis,</hi> Mat. 28.6.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Sixth.</hi> 6. He a╌ſçend╌ed into hea╌ven, <hi>Mark.</hi> 16.19. <hi>Act.</hi> 1, 9, 10, 11. and ſit╌teth at the right hand of God the fa╌ther âl╌might╌y, <hi>Rom.</hi> 8.34.</cell>
+                     <cell>Sextus. VI. <hi>Aſçéndit in-Coelum,</hi> Pſal. 68.18. Eph. 4.10 <hi>Sedet ad-dextram dei-Patris, omnipoténtis,</hi> Eph. 1.20. 1 Pet. 3.22.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Se╌venth.</hi> 7. From-thençe he ſhâll come to judge the quick, and the dead, 1 <hi>Theſ.</hi> 4.14, 16, 17. <hi>Act.</hi> 17.31. <hi>Mat.</hi> 25.31, 34.</cell>
+                     <cell>Séptimus. VII. <hi>Inde ventúrus ad-judicandum vivos, &amp; mórtuos,</hi> Jude 14.15.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Eighth.</hi> 8. I be╌lieve in the ho╌ly-ghôſt, <hi>Act.</hi> 5.3.4. 1 <hi>Cor.</hi> 2.10.</cell>
+                     <cell>Octávus. VIII. <hi>Credo in-ſpìritum-ſanctum,</hi> Mat. 28.19. 2 <hi>Cor.</hi> 3.14.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Ninth.</hi> 9. <hi>I be╌lieve</hi> the ho╌ly-cath╌o╌lik <hi>church,</hi> 1 <hi>Cor.</hi> 1.2. &amp; 12.12, 13. The com╌mu╌ni╌on of ſaints, <hi>Ep.</hi> 4.15, 16. <hi>Act.</hi> 2.42, 46.</cell>
+                     <cell>Nonus. IX. Credo <hi>ſanctam-Eccleſiam-cathólicam,</hi> Rev. 7.9. Rom. 15.9. <hi>Sanctórum communiónem,</hi> 1 Th. 5.11, 14, 1 Joh. 1.3, 4</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Tenth.</hi> 10. The for╌giv╌neſs of ſins. <hi>Act.</hi> 3.19.</cell>
+                     <cell>Décimus. X. <hi>Remiſſiónem peccatórum</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>E╌le╌venth.</hi> 11. The Re╌ſur╌rec╌ti╌on of the bo╌dy. <hi>Act.</hi> 24.15.</cell>
+                     <cell>Undécimus. XI. <hi>Carnis Reſurrectionem,</hi> Joh. 5.28, 29.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Twelfth.</hi> And the life ever-laſting. Amen. <hi>Rom.</hi> 6.23. <hi>Mat.</hi> 25.46.</cell>
+                     <cell>Duodécimus. XII. <hi>Et vitam-aetérnam.</hi> Amen. 1 Theſ. 4.17.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <pb n="4-5" facs="tcp:152963:3"/>
+               <table>
+                  <row>
+                     <cell role="label">The DE╌CA╌LOG<g ref="char:V">Ʋ</g>E, or MORAL Law of God, writt╌en in two Tables, and con╌tain╌ing a pre╌façe, ten Com╌mand╌ments, and rea╌sons an╌nex╌ed to-ſome-of-the-com╌mand╌ments, <hi>Exod. 20.1.</hi>
+                     </cell>
+                     <cell role="label">DE╌CALOGUS, ſeu Lex-Divína-Morális, inſcrípta duábus-Tábulis, &amp; cóntinens Praefatió<g ref="char:EOLhyphen"/>nem, decem-mandáta, unà-cum-Ratiónibus an<g ref="char:EOLhyphen"/>néxis nonnúllis-mandatis, <hi>Exod.</hi> XX. 1.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>GOd ſpake âll these words, ſay╌ing,</hi> The <hi>Prefaçe.</hi> I am the Lord thy god, which have brought thee <hi>out</hi> of the Land of E╌gypt, <hi>out</hi> of the houſe of bond╌age.</cell>
+                     <cell>Locútus eſt Deus ómnia-verba-haec, dicens, Praefátio, ſive-exórdium. <hi>Ego ſum Dóminus deus-tuus, qui edúxi te ex-terrâ Aegypti, ex-domo ſervit útis.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Firſt Com╌mand╌ment.</hi> 1 Thou ſhâlt have no o╌ther gods be╌fore me.</cell>
+                     <cell>
+                        <hi>Primum</hi>-Mandatum. I. <hi>Non habébis Deos-aliénos coram-me.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Se╌cond.</hi> 2. Thou ſhâlt not make unto thee a╌ny gra╌ven i╌mage, or a╌ny like╌neſs of a╌ny-thing, that is in-hea╌ven a╌bove, or that is in the earth be╌neath, or that is in the wâ╌ters un╌der the earth; Thou ſhâlt not <hi>bow</hi> down thy ſelf to them, nor ſerv them</cell>
+                     <cell>Secundum. II. <hi>Non fáçies tibi imaginem-quamvis-ſcúlptilem, aut ſimilitúdinem rei-cujúſvis, quae eſt in-coelis ſupérnè, aut infériùs in-terris, aut in-aquis infra-Terram: Non incurvábis te iis, nec iis ſérvies.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Reasons 1. <hi>For</hi> I, the Lord,</cell>
+                     <cell>Rationes. 1. Siquidem <hi>Ego Dóminus,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>2. Thy God,</cell>
+                     <cell>2. <hi>Deus-tuus,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>3. am a jéa╌lôus God,</cell>
+                     <cell>3. <hi>Deus ſum zelótypus,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>I. Vi╌ſit╌ing the in╌i╌qui╌ties of the fa╌thers up╌on the chil╌dren, un╌to the third, and fourth-ge╌ne╌ra╌ti╌on of them-that-hate me,</cell>
+                     <cell>1. <hi>Viſitans iniquitátes patrum in-filios, ad tertiam-uſque, quartamque-progeniem oſórummei;</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>II. And ſhew╌ing mer╌çy un╌to <hi>thou</hi>╌sands of them, that love me, and keep my-com╌mand╌ments.</cell>
+                     <cell>II. <hi>Exhihens verò miſeric órdiam ad<g ref="char:EOLhyphen"/>millenas uſque diligentium me, ac obſer<g ref="char:EOLhyphen"/>vantium mandáta-méa.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Third.</hi> 3. <hi>Thou</hi>-ſhâlt-not-take the Name of-the Lord-thy-god in-vain.</cell>
+                     <cell>Tertium. III. <hi>Nomen Dómini Deì-tui inánitèr non-uſurpábis.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Reason.</hi> For the Lord will not hôld him guilt╌leſs, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>at taketh his Name in╌<hi>vain.</hi>
+                     </cell>
+                     <cell>Ratio. <hi>Non enim habébit Dóminus, eum pro-inſonte, qui nomen-ejus adhibuerit inániter</hi>
+                     </cell>
+                  </row>
+                  <pb n="6-7" facs="tcp:152963:4"/>
+                  <row>
+                     <cell>Fourth Com╌mand╌ment. 4. Re╌mem╌ber the Sab╌bath-day to╌<hi>keep</hi>-it-ho╌ly.</cell>
+                     <cell>Quartum-<hi>Mandatum.</hi> IV. <hi>Memîneris diem-Sábbati, ut-ſanctîfices-eum.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Reaſons. 1. Six daies ſhâlt thou la╌bour, and do âll thy work.</cell>
+                     <cell>Rationes. 1. <hi>Sex-diébus operáberis, &amp; fácies omne-opus-tuum.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>2. But the ſe╌venth <hi>day</hi> is the Sab╌bath of the Lord thy God. In it Thou-ſhâlt not do any work, Thou, nor thy ſon, nor thy daugh╌ter, thy man╌ſerv╌ant, nor thy maid╌ſerv╌ant, nor thy cat╌tel, nor thy ſtran╌ger, that is with╌in thy gates.</cell>
+                     <cell>2. <hi>Séptimus vero diés eſt Sabbatum dómini dei-tui. In-eo nullum-opus facies. Tu, neque fìlius-tuus, neque fìlia-tua, nec ſervus-tuus, nec ancîlla tua, neque juméntum-tuum, nec hoſpes-tuus, quic únque intra-portas-tuas commorátur.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>3. For in ſix daies, the Lord made hea╌ven, and earth, the ſea, and âll that in-them is, and reſt╌ed the ſe╌venth-<hi>day;</hi>
+                     </cell>
+                     <cell>3. <hi>Nam ſex-diébus perfécit dóminus caelum, Terramque, mare, &amp; quicquid in-illis continetur; ſéptimo verò die requiévit.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>4. Where╌fore the Lord bleſſ╌ed the Sab╌bath <hi>day,</hi> and hal╌lôw╌ed it.</cell>
+                     <cell>4. <hi>quámobrèm benedìxit dóminus dei-ſábbati, eumque-ſanctificávit.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>The ſumm of the</hi> 4 <hi>firſt com╌mand╌ments, is, to love the Lord</hi> our <hi>god, with âll</hi> our <hi>heart, with âll</hi> our <hi>ſôul, with âll</hi> our <hi>ſtrength, and with âll</hi> our <hi>mind,</hi> Mat. 22.37, 38.</cell>
+                     <cell>Summa mandatórum quatuor priórum haec eſt, ut diligámus dóminum, deum noſtrum, ex toto cor<g ref="char:EOLhyphen"/>de, ex totâ ánimâ, ex totis Víribus, &amp; ex totâ mente noſtrâ, <hi>Mat.</hi> 22.37, 38.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Fifth.</hi> 5. Ho╌nour thy-fa╌ther, and thy-mo╌ther. <hi>Reaſon.</hi> That thy daies <hi>may</hi> be long in-the-land, which the Lord thy-God giv╌eth thee.</cell>
+                     <cell>Quintum. V. <hi>Honóra Patrem tuum, ac Matreus tuam.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Sixth.</hi> 6. Thou ſhâlt not kill.</cell>
+                     <cell>Sextum. 6. <hi>Non occides.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Séventh.</hi> 7. Thou ſhâlt not com╌mit ad╌ul╌te╌ry</cell>
+                     <cell>Septimum. 7. <hi>Non maecháberis.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Eighth.</hi> 8. Thou ſhâlt not ſteal.</cell>
+                     <cell>Octavum. 8. <hi>Non furaberis.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Ninth.</hi> 9. Thou-ſhalt-not-bear-fâlſe-wit╌neſs a╌gainſt thy neigh╌bour.</cell>
+                     <cell>Nonum. 9. <hi>Non-eris-teſtis-mendax. advèrſus-proximum-tuum.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Tenth.</hi> 10. Thou ſhâlt not co╌vet thy neigh╌bours houſe, thou ſhâlt not co╌vet thy neigh╌bours wife, nor his man╌ſervant, nor his maid╌ſerv-ant, nor his ox, nor his Aſs, nor a╌ny-thing, that is thy neigh╌bours.</cell>
+                     <cell>Decimum. 10. <hi>Non concupiſces uxórem proximi-tui, Non concupiſces domum próximi-tui, non ſervum, non ancillam, non bovem, non áſinum, néc-quicquam-aliud quod ipſiús eſt.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>The ſum of the</hi> 6 <hi>laſt com╌mand╌ments, is, to Love</hi> our <hi>Neigh╌bour, as</hi> our <hi>ſelves,</hi> Mat. 22.39.40.</cell>
+                     <cell>Summa ſex poſteriorum, eſt ut diligamus proximum noſtrum, ſicut nos metipſos, <hi>Mat.</hi> 39.40.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <pb n="8-9" facs="tcp:152963:5"/>
+               <table>
+                  <row>
+                     <cell role="label">Two SACRAMENTS of the New Tes╌ta╌ment, BAPTISM, and the LORD-S<g ref="char:V">Ʋ</g>PPER.</cell>
+                     <cell role="label">DUO SACRAMENTA novi Teſtamenti, BAPTISMUS, &amp; Coena DOMINI.</cell>
+                  </row>
+                  <row>
+                     <cell>A Sá╌cra╌ment is An Ho╌ly Or╌di╌nance in╌ſti╌túted by Chriſt, where╌in by ſen╌ſible ſigns, Chriſt, and the bé╌ne╌fits of the new-Co╌ve╌nant, are re╌pre╌ſent╌ed, ſéal╌ed, and ap╌pli╌ed to-Be╌liev╌ers, <hi>Gen.</hi> 17.7.10. 1 <hi>Cor.</hi> 11.23.26.</cell>
+                     <cell>Sacraméntum eſt Sácrum-inſtitútum Chriſti, in-quo, per-ſigna-ſenſibus-óbvia, Chriſtus, &amp; benefìcia foederis-novi, exhibéntur, obſignántur, &amp; applicantúr fidélibus, <hi>Gen. 17.7, 10. 1 Cor. 11.23, 26.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>1. Báp╌tiſm is a Sá╌cra╌ment, where in, the waſh╌ing with wâ╌ter, in the name of the Fa╌ther, and of the Son, and of the Holy-Ghôſt (<hi>Mat.</hi> 28.19) doth ſíg╌ni╌fy, and ſeal <hi>our</hi> in╌gráft╌ing in╌to Chriſt, and par╌ta╌king of the bê╌ne╌fits of the Có╌ve╌nant of-graçe, and <hi>our</hi> en╌gáge╌ment to be the Lords, <hi>Rom.</hi> 6.4. <hi>Gal.</hi> 3.27.</cell>
+                     <cell>
+                        <hi>1.</hi> Baptìſmus eſt Sacraméntum, in-quo, lavácrum per-aquam, in-nomine Patris, &amp; Fílii, &amp; ſpìritus-ſancti <hi>(Mat. 28.19.)</hi> ſignificat, &amp; obſignat inſitiónem-noſtram in Chriſt<g ref="char:EOLhyphen"/>um, participatiónemque beneficiórum foederis-gratúiti, ſponſionèmque noſtram, quâ dómino noſtra damus nomina, <hi>Rom. 6.4. Gal. 3.27.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>2. The Lords-ſup╌per is a Sá╌cra╌ment, where╌in by giv╌ing, and re╌çèiv╌ing bread, and wine, ac╌cord╌ing to Chriſts ap╌point╌ment, his death is-ſhew╌ed-fôrth: and the wor╌thy re╌çèiv╌ers, are, (not af╌ter a cór╌po╌ral, and car╌nal man╌ner, but by <hi>faith</hi>) made par╌tá╌kers of his bo╌dy, and blood, with âll his bé╌ne╌fits, to-their ſpi╌ri╌tu╌al nou╌riſh╌ment, and grôwth in graçe. 1 <hi>Cor.</hi> 11.23. to 30. and 1 <hi>Cor.</hi> 10.16. <hi>Mat.</hi> 26.26, 27, 28.</cell>
+                     <cell>2. Coena Dómini est Sacraméntum, in-quo, per-panem, &amp; vinum, datum, &amp; acceptum, ex-inſtitúto-Chriſti, mors-ejus annunciátur: &amp; qui-hanc-coenam-digne-partîcìpant, (non corpóreo, &amp; carnáli-modo, ſed fide) fiunt partícipes córporis &amp; ſánguinis-Chriſti, unà-cum-ómnibus-benefìciis-ejus, in-illorum ſpirituále-nutriméntum, &amp; profectum in-grátiâ. <hi>1 Cor. 11.23. ad 30. &amp; 1 Cor. 10.16.</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <pb n="10-11" facs="tcp:152963:6"/>
+               <table>
+                  <row>
+                     <cell role="label">The-Two-chief-GRACES of the GOSPEL, FAITH in-Jeſus Chriſt, and REPENTANCE unto-Life.</cell>
+                     <cell role="label">DUAE-PRAECIPUAE-GRATIAE Evangelii, Fides in-Jeſ.-Chriſtum, &amp; RESIPISCENTIA ad-vitam.</cell>
+                  </row>
+                  <row>
+                     <cell>1. <hi>FAith</hi> in Jeſ. Chriſt is a ſa╌ving graçe, <hi>Heb.</hi> 10.39. where╌by, we re╌çeive, <hi>Joh.</hi> 1.12. and reſt up╌on him a╌lone for ſal╌vá╌ti╌on, as he is of╌fer╌ed to us in the Goſpel. <hi>Iſa.</hi> 26.3, 4. <hi>Phil.</hi> 3.9. <hi>Gal.</hi> 2.16.</cell>
+                     <cell>
+                        <hi>1.</hi> FIdes in-Jeſum Christum eſt ſalvifica grátia, <hi>Heb. 10.39.</hi> quâ, illum ampléctimur, <hi>Joh. 1.12.</hi> &amp; in-illum-ſo-lum recúmbimus pro-ſalúte, prout offertur nobis in-Evangélio. <hi>Iſa. 26.3.4. Phil. 3.9. Gal 2.16.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>2. RE╌pentance un╌to life is a ſa╌ving graçe, <hi>Act.</hi> 11.18. where╌by, a ſin╌ner, <hi>out</hi> of the true ſenſe of his ſin, <hi>Act.</hi> 2.37, 38. and ap╌pre╌hén╌ſi╌on of the mer╌cy-of God in Chriſt, <hi>Joel</hi> 2.12. <hi>Jer.</hi> 3.22. doth, with grief <hi>Jer.</hi> 31.18, 19, and ha╌tred of his-ſin, <hi>Ezek.</hi> 36.31, turn from-it un╌to-god, with-full-pur╌poſe-of, and en╌dea╌vour-af╌ter <hi>new</hi>-o╌be╌di╌ence, 2 <hi>Cor.</hi> 7.11. <hi>Iſa.</hi> 1.16, 17.</cell>
+                     <cell>
+                        <hi>2.</hi> RE╌ſipiſçéntia ad-vitam eſt grátia-ſalvîfica, <hi>Act. 11.18.</hi> quâ, peccátor, e-vero peccáti-ſui ſenſu, <hi>Act. 2.37, 38.</hi> ac apprehenſióne divìnae in-Chriſto miſericórdiae, <hi>Joel 2.12. Jer. 3.22.</hi> dolens, <hi>Jer. 31.18, 19,</hi> ac peróſus peccátum-ſuum, <hi>Ezek. 36.31.</hi> ab-illo ad-deum convértitur, cum-pleno-propóſito, &amp; conátu novae-obediéntiae, <hi>2 Cor. 7.11. Iſa. 1.16, 17.</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <pb n="12-13" facs="tcp:152963:7"/>
+               <table>
+                  <row>
+                     <cell role="label">Prai╌er.</cell>
+                     <cell role="label">Orátio.</cell>
+                  </row>
+                  <row>
+                     <cell>PRai╌er is an of╌fer╌ing up of <hi>our</hi> de╌si╌res to God, for things a╌gree╌able to his will, in the name of Chriſt, with con╌feſ╌ſi╌on of <hi>our</hi> ſins, and thank╌ful ac╌knôw╌ledg╌ment of his mer╌çies.</cell>
+                     <cell>
+                        <hi>ORátio eſt oblátio Petitiónum-noſtrárum déo, pro-rebus ejus voluntáti conſentáneis, in-nómine Chriſti, uná-cum peccatórum-nostrórum confeſſione, gratâque beneficiórum-ejus agnitióne.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Mat.</hi> 6.9. THE LORDS PRAI╌ER con╌tain╌ing <hi>Luk.</hi> 11.2. A pre╌façe, ſix Pe╌ti╌ti╌ons, &amp; a con╌clu╌si╌on</cell>
+                     <cell>
+                        <hi>Mat. VI. IX. Orátio-Domínica,</hi> compléctens praefatiúnculam, ſex-petitiónes, &amp; conclus╌iónem.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>The Prefaçe. Our</hi> Fa╌ther, which art in hea╌ven,</cell>
+                     <cell>
+                        <hi>Praefatiúncula.</hi> Páter-nóster, qui es in-coelis,</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Firſt.</hi> 1. <hi>Petition.</hi> Hal╌lôw╌ed be thy name.</cell>
+                     <cell>
+                        <hi>Petitio-Prima. I.</hi> Sanctifiçétur Nómen-tuum.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Se╌cond.</hi> 2. Thy King╌dom come.</cell>
+                     <cell>
+                        <hi>Secunda. II.</hi> Advéniat Regnum-tuum.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Third.</hi> 3. Thy will be done on earth, as it is in hea╌ven.</cell>
+                     <cell>
+                        <hi>Tertia. III.</hi> Fiat Volúntas-tua ſic-étiam-in-terrâ, ſicut in-coelo.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Fourth.</hi> 4. Give us this <hi>day our dai</hi>╌ly bread.</cell>
+                     <cell>
+                        <hi>Quarta. IV.</hi> Panem-nostrum-quotidiánum da nobis hódie.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Fifth.</hi> 5. And for╌<hi>giv</hi> us <hi>our</hi> debts, as we for╌<hi>giv our</hi> debt╌ors.</cell>
+                     <cell>
+                        <hi>Quinta. V.</hi> Et remítte nobis débita-nostra, ſicut et-nôs-remittimus debitóribus-noſtris.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Sixth.</hi> 6. And lead us not in╌to temp╌ta╌ti╌on, but de╌li╌ver us from e╌vil.</cell>
+                     <cell>
+                        <hi>Sexta. VI.</hi> Et ne nôs indúcas in-Tentatiónem, ſed líbera nôs a-malo.</cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Con╌clu╌si╌on.</hi> For Thine is the King╌dom, and the <hi>pow</hi>╌er, and the <hi>glo╌ry,</hi> for ever, A╌men.</cell>
+                     <cell>
+                        <hi>Con╌cluſio</hi> ſive Epilogus. Quia tuum est et-Regnum, &amp; Poténtia, &amp; glória, in ſécula. Amen.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <pb n="14-15" facs="tcp:152963:8"/>
+               <table>
+                  <row>
+                     <cell role="label">A Prayer before-Meat.</cell>
+                     <cell role="label">Conſecrátio-Menſae ante-cibum.</cell>
+                  </row>
+                  <row>
+                     <cell>Môſt gra╌çi╌ôus Fa╌ther, we hum╌bly be╌<hi>ſeech</hi> th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 
+                        <hi>free</hi>╌ly to par╌don âll <hi>our</hi> ſins, <hi>which</hi> make</cell>
+                     <cell>S<g ref="char:V">Ʋ</g>b-miſſè precámur, Pater-per-benigne, ut peccáta noſtra ómnia gratúitò velis nobis cond<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>náre, quae</cell>
+                  </row>
+                  <row>
+                     <cell>us un╌wór╌thy of the léaſt of thy mer╌cies;</cell>
+                     <cell>quidem vel mínimis tuis benefíciis nos <hi>planè</hi> reddunt indignos;</cell>
+                  </row>
+                  <row>
+                     <cell>To ſanc╌ti╌fy theſe thy créa╌tures to <hi>our</hi> uſe,</cell>
+                     <cell>
+                        <hi>itemque</hi> ut creaturárum iſtárum uſum nobis ſanc<g ref="char:EOLhyphen"/>tifices,</cell>
+                  </row>
+                  <row>
+                     <cell>and to give us grace, to ſpend their ſtrength</cell>
+                     <cell>&amp; gratiam nobis largiaris, ad inſumendas illárum vires</cell>
+                  </row>
+                  <row>
+                     <cell>in thy faith╌full ſer╌vice; and âll through</cell>
+                     <cell>in fideliſſimo tui obſequio; quae-<hi>quidem</hi>-petimus, per-</cell>
+                  </row>
+                  <row>
+                     <cell>Jeſus Chriſt, <hi>our</hi> Lord, and Sa╌vi╌our. Amen.</cell>
+                     <cell>Jeſum Chriſtum, dóminum, &amp; ſalvatórem noſtrum. Amen.</cell>
+                  </row>
+                  <row>
+                     <cell role="label">Thanks after Meat.</cell>
+                     <cell role="label">Gratiárum-Actio poſt-cibum.</cell>
+                  </row>
+                  <row>
+                     <cell>BLeſ╌ſed Lord, we praiſe thy great, and glo╌ri╌ôu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Name, for âll thy full, free, and Ten╌der mer╌çies,</cell>
+                     <cell>CElebrámus, Dómine-benedicte, nomen-tuum-mag<g ref="char:EOLhyphen"/>num, &amp; glorióſum, pro-ómnibus-tuis-plenis, gratúitis, &amp; tenerrimis-be<g ref="char:EOLhyphen"/>neficiis,</cell>
+                  </row>
+                  <row>
+                     <cell>con╌ſtant╌ly be╌ſtôw╌ed on us, in, and through Chriſt Jeſus; more e╌ſpé╌ci╌al╌ly, that thou haſt ſo gra╌ci╌ôus╌ly re╌freſh╌ed us with thy good Crea╌tures, at this time: O give us graçe, ſinçe we live whôlly on thy boun╌ty, to live ſin╌çere╌ly to thy glo╌ry: and âll, through Je╌sus Chriſt, <hi>our</hi> Lord, and Sa╌vi╌our. Amen.</cell>
+                     <cell>conſtanter in-nos collátis, in, &amp; per Jeſum Chriſtum, praecipuè vero, quòd nos tam'-benigne<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>-recreáveris bonis-tuis-et-idoneis-creatúris, hoc-tempore. Imperti, quaeſumus, nos grátiâ ut, per munific éntiam tuam prorsùs-viventes, in tui gloriam integrè vitam traducamus id<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> per-Jeſum-Chriſtum-dóminum-noſtrum, &amp; ſal<g ref="char:EOLhyphen"/>vatorem-unicum Amen.</cell>
+                  </row>
+               </table>
+            </p>
+            <pb facs="tcp:152963:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
